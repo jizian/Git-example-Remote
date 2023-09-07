@@ -1,4 +1,15 @@
 body
 {
-    background-color: aqua;
+    background-color: lightcyan;
+}
+h1
+{
+    color: violet;
+    text-align:center;
+}
+p
+{
+    font-family: "Times New ROman";
+    font-size: 20px;
+    text-align: center;
 }
